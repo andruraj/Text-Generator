@@ -24,8 +24,8 @@ export default class Out extends Component {
                     <h1>Sample Text Generator</h1>
                     <div className="form-group">
                         <label htmlFor="para">Paragraph : </label>
-                        <input type="number" name="para" min="1" max="10" onChange={this.paraNo} required/>
-                        <input type="checkbox" name="format" onChange={this.html} />
+                        <input class='num' type="number" name="para" min="1" max="10" onChange={this.paraNo} required/>
+                        <input class='check' type="checkbox" name="format" onChange={this.html} />
                         <label htmlFor="html"> HTML </label>
                         
                         <textarea name="text" cols="150" rows="25" value={this.props.setText}></textarea>
