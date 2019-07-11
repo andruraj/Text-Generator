@@ -1,4 +1,4 @@
-## Sample Text Generator
+# Sample Text Generator
 
 In the project directory, you can run:
 
