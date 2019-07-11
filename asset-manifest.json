@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Text-Generator/static/css/main.d12b890c.chunk.css",
+    "main.js": "/Text-Generator/static/js/main.ad14b164.chunk.js",
+    "main.js.map": "/Text-Generator/static/js/main.ad14b164.chunk.js.map",
+    "runtime~main.js": "/Text-Generator/static/js/runtime~main.ed3aa629.js",
+    "runtime~main.js.map": "/Text-Generator/static/js/runtime~main.ed3aa629.js.map",
+    "static/js/2.b2ca986f.chunk.js": "/Text-Generator/static/js/2.b2ca986f.chunk.js",
+    "static/js/2.b2ca986f.chunk.js.map": "/Text-Generator/static/js/2.b2ca986f.chunk.js.map",
+    "index.html": "/Text-Generator/index.html",
+    "precache-manifest.2c6a7bc6fcf3099976e51d6490a7daa7.js": "/Text-Generator/precache-manifest.2c6a7bc6fcf3099976e51d6490a7daa7.js",
+    "service-worker.js": "/Text-Generator/service-worker.js",
+    "static/css/main.d12b890c.chunk.css.map": "/Text-Generator/static/css/main.d12b890c.chunk.css.map"
+  }
+}
