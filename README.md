@@ -1,4 +1,4 @@
-# Sample Text Generator
+# Sample Text Generator [![Text-Generator](https://img.shields.io/badge/TextGenerator-site-green.svg)](https://andruraj.github.io/Text-Generator/)
 
 In the project directory, you can run:
 
